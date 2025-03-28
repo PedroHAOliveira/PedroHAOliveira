@@ -18,13 +18,15 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 ### 🌎 Onde me encontrar?
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/) ![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg)
+### 🌎 Onde me encontrar?
 
-🔗 [GitHub](https://github.com/PedroHAOliveira) ![GitHub Icon](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)
+🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/)
 
-🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/) ![Instagram Icon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)
+🔗 [GitHub](https://github.com/PedroHAOliveira)
 
-📧 **E-mail:** [oliveirapedroha@gmail.com](mailto:oliveirapedroha@gmail.com) ![Gmail Icon](https://upload.wikimedia.org/wikipedia/commons/a/a7/Gmail_Icon.png)
+🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/)
+
+📫 **E-mail:** oliveirapedroha@gmail.com
 
 ---
 
