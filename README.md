@@ -13,19 +13,18 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 - **Linguagens:** Python | Java | JavaScript | HTML | CSS
 - **Versionamento:** Git | GitHub
-- **Outros:** Análise de Dados | UX/UI | Suporte ao Cliente
-
+  
 ---
 
 ### 🌎 Onde me encontrar?
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/)
+🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/) ![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/e/e9/LinkedIn_icon.svg)
 
-🔗 [GitHub](https://github.com/PedroHAOliveira)
+🔗 [GitHub](https://github.com/PedroHAOliveira) ![GitHub Icon](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)
 
-🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/)
+🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/) ![Instagram Icon](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)
 
-📫 **E-mail:** olveirapedroha@gmail.com
+📧 **E-mail:** [oliveirapedroha@gmail.com](mailto:oliveirapedroha@gmail.com) ![Gmail Icon](https://upload.wikimedia.org/wikipedia/commons/a/a7/Gmail_Icon.png)
 
 ---
 
