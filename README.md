@@ -17,11 +17,6 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 ---
 
-### 📈 Estatísticas do GitHub
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHAOliveira&show_icons=true&theme=dark)
-
----
-
 ### 🌎 Onde me encontrar?
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/)
