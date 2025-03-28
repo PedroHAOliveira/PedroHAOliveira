@@ -18,8 +18,6 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 ### 🌎 Onde me encontrar?
 
-### 🌎 Onde me encontrar?
-
 🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/)
 
 🔗 [GitHub](https://github.com/PedroHAOliveira)
