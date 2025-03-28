@@ -25,7 +25,7 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/)
 
-📫 **E-mail:** pedro.h.oliveira@example.com
+📫 **E-mail:** olveirapedroha@gmail.com
 
 ---
 
