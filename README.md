@@ -20,8 +20,6 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pedroh-oliveira/)
 
-🔗 [GitHub](https://github.com/PedroHAOliveira)
-
 🔗 [Instagram](https://www.instagram.com/pedroh_aoliveira/)
 
 📫 **E-mail:** oliveirapedroha@gmail.com
