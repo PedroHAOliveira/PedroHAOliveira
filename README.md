@@ -1,6 +1,6 @@
-## 👋 Olá, eu sou Pedro Oliveira!
+##  Olá, eu sou Pedro Oliveira!
 
-### 🚀 Sobre mim
+### Sobre mim
 Sou um profissional com experiência em atendimento e suporte, atualmente em transição para a área de tecnologia. Curso **Análise e Desenvolvimento de Sistemas** na Estácio e participo do programa **Oracle Next Education (ONE)**.
 
 Minhas habilidades de comunicação em **inglês e espanhol** me permitem atuar com agilidade e objetividade, facilitando soluções para projetos em diferentes contextos culturais.
@@ -9,9 +9,19 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas
 
-- **Linguagens:** Python | Java | JavaScript | HTML | CSS
+- **Linguagens:**
+  
+- Python
+- JavaScript
+- HTML
+- CSS
+- Tkinter
+- SQLite
+- Pandas
+- Reportlab
+  
 - **Versionamento:** Git | GitHub
   
 ---
