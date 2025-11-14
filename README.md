@@ -10,8 +10,6 @@ Minha jornada como **PCD (ostomizado)** fortaleceu minha **resiliência e capaci
 ---
 
 ### 💻 Tecnologias & Ferramentas
-
-- **Linguagens:**
   
 - Python
 - JavaScript
